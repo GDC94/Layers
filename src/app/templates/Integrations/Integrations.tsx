@@ -7,7 +7,8 @@ export const integrations = [
   {
     name: "Notion",
     icon: "notion-logo.svg",
-    description: "Notion is an all-in-one workspace for notes and docs.",
+    description:
+      "Notion is an all-in-one workspace for notes and docs.",
   },
   {
     name: "Slack",
@@ -17,7 +18,8 @@ export const integrations = [
   {
     name: "Relume",
     icon: "relume-logo.svg",
-    description: "Relume is a no-code website builder and design system.",
+    description:
+      "Relume is a no-code website builder and design system.",
   },
   {
     name: "Framer",
@@ -27,7 +29,8 @@ export const integrations = [
   {
     name: "GitHub",
     icon: "github-logo.svg",
-    description: "GitHub is the leading platform for code collaboration.",
+    description:
+      "GitHub is the leading platform for code collaboration.",
   },
 ];
 

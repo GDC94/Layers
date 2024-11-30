@@ -3,6 +3,7 @@
     "singleQuote": false,
     "tabWidth": 2,
     "trailingComma": "all",
+    "printWidth": 70,
     "importOrder": [
         "^(react|next?/?([a-zA-Z/]*))$",
         "<THIRD_PARTY_MODULES>",
